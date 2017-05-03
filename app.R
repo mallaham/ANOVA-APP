@@ -18,7 +18,6 @@
 ##########################################
 library(shiny)
 library(plotly)
-library(mvtnorm)
 library(MASS)
 library(afex)
 ##########################################
