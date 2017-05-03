@@ -184,10 +184,10 @@ ui <- fluidPage(
         tags$hr(style="background-color: #2E2C2C;height: 1px;"),
         column(4,plotlyOutput("between",height = "400px")),
         column(4,plotlyOutput("rm",height = "400px")),
-        column(4,plotlyOutput("mixed",height = "400px")),
-        tags$output(HTML("<center><p style='color:black;font-style: normal;font-size: 12px;'><i>Note: You can press on the legend color to add/remove one or more components that form the pie</i> </p></center>"))
+        column(4,plotlyOutput("mixed",height = "400px"))
         ),
       #giving myself some credit ;-)
+      tags$output(HTML("<center><p style='color:black;font-style: normal;font-size: 12px;'><i>Note: You can press on the legend color to add/remove one or more components that form the pie</i> </p></center>")),
       tags$hr(style="background-color: #2E2C2C;height: 1px;"),
       tags$output(HTML("<center><p style='color:black;font-style: normal;font-size: 15px;'>This app is developed by <a href ='https://twitter.com/mowafakallaham'>Mowafak Allaham</a>, a PhD student at the University of Illinois at Chicago</p><br>April, 2017</center>"))
     )

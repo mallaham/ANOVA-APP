@@ -8,7 +8,7 @@ Since there is no actual dataset that looks at the empathic response of humans a
 # Design:
 This hypothetical study is based on 2 (robot type) x 3 (Uncanny levels) design.
 
-You can access the app by following this [link]()
+You can access the app by following this [link](http://ihateanova.shinyapps.io/chapter_27/)
 
 For information on how to upload an Shiny app to [shinyapps.io](https://shiny.rstudio.com/articles/shinyapps.html), please press on this [link](https://shiny.rstudio.com/articles/shinyapps.html)
 
