@@ -1,8 +1,3 @@
----
-title: "ANOVA Shiny App"
-output: github_document
----
-
 # Motivation:
 
 The purpose of this app is to provide undergardaute and graduate students, as well as apsiring young scientists, with an interactive tool to better understand the different types of analysis of variance (ANOVA). This app allows users to visualize how the variance changes as a function of the number of observations,within subject correlation, the mean, and standard deviation that they select.
