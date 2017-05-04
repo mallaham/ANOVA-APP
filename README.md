@@ -10,7 +10,7 @@ This hypothetical study is based on 2 (robot type) x 3 (Uncanny levels) design.
 
 You can access the app by following this [link](http://ihateanova.shinyapps.io/chapter_27/)
 
-For information on how to upload a Shiny app to, please press on this [link](https://shiny.rstudio.com/articles/shinyapps.html)
+For information on how to upload a Shiny app, please press on this [link](https://shiny.rstudio.com/articles/shinyapps.html)
 
 # Screenshot:
 ![alt text](./variance_screenshot.png "explained and unexplained variance")
